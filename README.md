@@ -26,10 +26,18 @@ BTW. My friends also made some other platform's NumberProgressBar：
 ----
 
 #### Gradle
+```groovy
+allprojects {
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
+	}
+}
+```
 
 ```groovy
 dependencies {
-   compile 'com.daimajia.numberprogressbar:library:1.4@aar'
+   implementation 'com.github.Pzxxc:NumberProgressBar:v1.5.alpha'
 }
 ```
 
