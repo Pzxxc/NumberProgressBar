@@ -1,6 +1,7 @@
-## Android NumberProgressBar [![Build Status](https://travis-ci.org/daimajia/NumberProgressBar.png?branch=master)](https://travis-ci.org/daimajia/NumberProgressBar)
-
-[![Insight.io](https://insight.io/repoBadge/github.com/daimajia/NumberProgressBar)](https://insight.io/github.com/daimajia/NumberProgressBar)
+## Android NumberProgressBar
+[![](https://jitpack.io/v/Pzxxc/NumberProgressBar.svg)](https://jitpack.io/#Pzxxc/NumberProgressBar)
+[![Build Status](https://travis-ci.org/daimajia/NumberProgressBar.png?branch=master)](https://travis-ci.org/daimajia/NumberProgressBar)
+[![](https://insight.io/repoBadge/github.com/daimajia/NumberProgressBar)](https://insight.io/github.com/daimajia/NumberProgressBar)
 -----
 
 The NumberProgressBar is a bar, slim and sexy (every man wants! ). 
@@ -137,9 +138,3 @@ for example, the default style:
 	        custom:progress_current="80"
 	         />
 ```
-
-### About me:
-
-A student in China mainland, I like Google, like Android, like open source, like doing something interesting. :)
-
-If you have some new idea or internship opportunity, please [email me](mailto:daimajia@gmail.com) !
